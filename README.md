@@ -1,0 +1,2 @@
+# Minergpt
+miner vana
